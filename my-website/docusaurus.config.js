@@ -62,6 +62,11 @@ const config = {
             position: "left",
           },
           {
+            to: "https://docs.google.com/forms/d/1-Ycwr5_cMzlbsSVnwTVpxb4on52z_X-YFSGi4GlMmDw/edit",
+            label: "Vote",
+            position: "left",
+          },
+          {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
             position: "right",
