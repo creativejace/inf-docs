@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Validators
 
-Any amount of ID allows a holder to be a Delegator. Once a holder has pledged their holdings by Staking them while identifying their chosen Validator or the Validator Pool, they will then participate and earn rewards distributed by the Validator to their Delegators, or pro-rata from the Validator Pool commons. Validators are network participants that, in addition to running a full EverFastChain node, listen to transactions broadcasted in the network's mempool and include them in blocks that they sign. For more details on Validators, refer to the EverFastChain Validator FAQ and EverFastChainValidator registration request form.
+Any amount of ID allows a holder to be a Delegator. Once a holder has pledged their holdings by Staking them while identifying their chosen Validator or the Validator Pool, they will then participate and earn rewards distributed by the Validator to their Delegators, or pro-rata from the Validator Pool commons. Validators are network participants that, in addition to running a full EverFastChain node, listen to transactions broadcasted in the network's mempool and include them in blocks that they sign. For more details on Validators, refer to the [EverFastChain Validator FAQ](/docs/validator-faq) and [EverFastChainValidator registration request form](https://docs.google.com/forms/d/1zzj6LWe7TTv1su1RPas5tCObpvUW2CILIhE-7ehSJOA/prefill).
 In order to do so and reliably to meet the scalability, security, and finality requirements of the network, Validators typically run specially configured architectures that are robust against many forms of attacks on distributed networks or leverage service organizations which provide equivalent hardware as commodity cloud infrastructure to host their node. No validator will be able to vote more than 10% of the network power, and validators are prohibited from colluding. The policies described here can change, as determined by the INF board.
-Validators play a central role in the EverFastChain’s consensus, which is modeled after Ethereum and BSC. For more detailed information on the validator’s role, please refer to the official documentation (opens new window).
+Validators play a central role in the EverFastChain’s consensus, which is modeled after Ethereum and BSC. For more detailed information on the validator’s role, please refer to the [official documentation](/docs/validator-faq).
 
 ## Delegators
 
@@ -18,7 +18,22 @@ A validator's voting power is proportional to the amount of ID they have put int
 
 Running a validator is a big responsibility, which is why only the top 100 in Vaulted ID stake are the candidates to sign blocks. Validators and Delegators earn rewards based on the minimum time they commit to a staking Vault. Each of the 100 Vaults equates to running one of the validating nodes.
 
-The 21 Validators who sign blocks are randomly chosen every 24 hours from the pool of 100 Validators. Those Validator nodes not online for the entirety of the previous hour prior to the cutover will not be eligible to be chosen for the 21 signers. Additional detail can be found here.
+| User Identity + Wallet (creation)               |
+| ----------------------------------------------- |
+|                                                 |
+| Org Identity + Wallet + API per year (creation) |
+| 2-10 users                                      |
+| 11-100 users ($3.00/user/year)                  |
+| 101-250 ($2.50/user/year)                       |
+| 251-500 ($2.25/user/year)                       |
+| 501+ users = custom                             |
+| Additional TIME                                 |
+| Additional STORAGE                              |
+| ID Verification (human & unique)                |
+| EverFASTChain transactions                      |
+| Stakers/Validators                              |
+
+The 21 Validators who sign blocks are randomly chosen every 24 hours from the pool of 100 Validators. Those Validator nodes not online for the entirety of the previous hour prior to the cutover will not be eligible to be chosen for the 21 signers. Additional detail can be found [here](/docs/validator-faq).
 
 Every seven days up to 100 “Active Validators” are chosen from all validator candidates based on the total amount of the ID they have staked on their node. The amount of staked ID is the combination of the Validator’s pledge stake (300,000), the Delegators’ additional pledges, as well as the pro-rata percentage of the Validator Pool.  
 The selection of the 100 Active Validator nodes includes the following requirements for uptime and availability: a validator candidate will not be eligible if their node is:

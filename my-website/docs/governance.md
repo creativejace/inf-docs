@@ -16,7 +16,7 @@ Individuals who own mobile phones will be able to expand their digital identity 
 
 By empowering individuals with the tools to protect and manage their own identity data, and importantly allows them to profit from institutions that wish to access data or verify their identity. For example, governments, banks, hospitals, utilities and other large institutions (“Network Customers”) need to verify identities to do such things as open a bank account, provide a mobile phone and SIM card, give and track a vaccine, get a SIM card, and receive food.
 
-Purpose, Mission and Principles
+[Purpose, Mission and Principles](/docs/inf-background)
 
 The Policies aim to:
 

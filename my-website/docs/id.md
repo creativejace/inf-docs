@@ -22,6 +22,21 @@ Rewards from stakes are determined largely by the relative size of each stake, a
 
 Pricing for services is initially determined by a vote of ID holders with over 1,000 IDs in their EverWallet (one EverWallet = one identity, which equals one vote), and then on an on-going basis by Validators according to the governance system. Fees are priced in USD, but paid in ID. Pricing will be updated quarterly (four times per year) to match market prices, and will be determined by the governance processes. The INF will offer the below services and will distribute ID tokens based on a community-determined schema from the Reserve pool.
 
+| User Identity + Wallet (creation)               |
+| ----------------------------------------------- |
+|                                                 |
+| Org Identity + Wallet + API per year (creation) |
+| - 2-10 users                                    |
+| - 11-100 users ($3.00/user/year)                |
+| - 101-250 ($2.50/user/year)                     |
+| - 251-500 ($2.25/user/year)                     |
+| - 501+ users = custom                           |
+| Additional TIME                                 |
+| Additional STORAGE                              |
+| ID Verification (human & unique)                |
+| EverFASTChain transactions                      |
+| Stakers/Validators                              |
+
 ## Allocation
 
 Based initially on a community vote, a percentage of network fees will be allocated to Validators, a percentage of the transaction will be burned, and 10 percent will be allocated to the Foundation for the purpose of maintaining storage and access for identities.
