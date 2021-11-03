@@ -57,7 +57,7 @@ const config = {
             label: "Governance",
           },
           {
-            to: "https://everestdotorg.medium.com/",
+            to: "https://everest-foundation.medium.com/",
             label: "Blog",
             position: "left",
           },

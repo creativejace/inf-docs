@@ -30,8 +30,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`Identity Network Foundation`}
+      description="INF provides open access to a global identity creation and verification network, and associated digital wallet for humanity."
     >
       <HomepageHeader />
       <main>
