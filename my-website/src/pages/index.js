@@ -37,9 +37,10 @@ function HomepageBanner() {
     <header
       className={clsx("hero hero--primary", styles.heroBanner)}
       style={{
-        height: 500,
+        height: 600,
         flex: 1,
         width: "100%",
+        padding: "60px",
         backgroundImage: `url(${banner})`,
         backgroundPosition: "center",
         WebkitBackgroundSize: "cover",

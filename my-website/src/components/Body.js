@@ -4,7 +4,7 @@ import { BodyIntro, BodyMain } from "./styles/TextStyles";
 
 function Body() {
   const divStyle = {
-    margin: "50px 100px",
+    margin: "50px 70px",
   };
   return (
     <ContentWrapper>

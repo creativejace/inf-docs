@@ -44,10 +44,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "INF",
+        title: "",
         logo: {
           alt: "My Site Logo",
-          src: "img/infLogo_black.png",
+          src: "img/inf-log-new.png",
         },
         items: [
           {
@@ -66,11 +66,11 @@ const config = {
             label: "Vote",
             position: "left",
           },
-          {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
-            position: "right",
-          },
+          // {
+          //   href: "https://github.com/facebook/docusaurus",
+          //   label: "GitHub",
+          //   position: "right",
+          // },
         ],
       },
       footer: {
@@ -80,38 +80,18 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Governance",
                 to: "/docs/intro",
               },
             ],
           },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
+
           {
             title: "More",
             items: [
               {
                 label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                to: "https://everest-foundation.medium.com/",
               },
             ],
           },
