@@ -66,7 +66,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Identity Network Foundation`}
+      title={`Home`}
       description="INF provides open access to a global identity creation and verification network, and associated digital wallet for humanity."
     >
       <HomepageBanner />
