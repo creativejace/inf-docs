@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Iterative Proposals in INF
@@ -36,6 +36,7 @@ Proposals types include:
 The following is the standardization process for all EPs:
 
 **1. IDEA** - An idea that is pre-draft. This is not tracked within the INP Repository.
+
 **2. DRAFT** - The first formally tracked stage of an INP in development. An INP is merged into the INP repository only when it is properly formatted and submitted by an INP Author.
 
 **3. REVIEW** - An INP Author marks an INP as ready for and requesting Peer Review by issuing a pull request.
