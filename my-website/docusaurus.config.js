@@ -66,11 +66,11 @@ const config = {
             label: "Vote",
             position: "left",
           },
-          // {
-          //   href: "https://github.com/facebook/docusaurus",
-          //   label: "GitHub",
-          //   position: "right",
-          // },
+          {
+            href: "https://wallet.everest.org/takePhoto",
+            label: "Sign In",
+            position: "right",
+          },
         ],
       },
       footer: {
