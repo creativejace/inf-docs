@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import heroImage from "../../static/img/BG_INF.png";
+import heroImage from "../../static/img/eye.jpg";
 import { H1, H3 } from "./styles/TextStyles";
 
 function Banner() {

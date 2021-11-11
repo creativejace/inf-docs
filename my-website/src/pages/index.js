@@ -5,7 +5,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.css";
 import HomepageFeatures from "../components/HomepageFeatures";
-import banner from "../../static/img/BG_INF.png";
+import banner from "../../static/img/eye.jpg";
 import Banner from "../components/Banner";
 import Body from "../components/Body";
 import CopyBlock from "../components/CopyBlock";
