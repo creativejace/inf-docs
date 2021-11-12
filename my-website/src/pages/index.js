@@ -55,7 +55,15 @@ function HomepageBanner() {
             className="button button--secondary button--lg"
             to="https://wallet.everest.org/signupterm"
           >
-            Open Account
+            Get Identity & Wallet
+          </Link>
+        </div>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://wallet.everest.org/signupterm"
+          >
+            Sign In
           </Link>
         </div>
       </div>
@@ -73,7 +81,6 @@ export default function Home() {
 
       <main>
         <Body />
-        <Section />
       </main>
     </Layout>
   );

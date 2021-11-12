@@ -63,13 +63,13 @@ Such a model would look like the below, with the following assumptions: $1/ID; s
 
 ## Specification
 
-The INF will retain 10 percent of the fees for the purpose of paying for the ongoing storage and access to identities. Validators are required to stake 300,000 ID tokens, and will be remunerated on a pro rata basis based on the amount of time the stake is “vaulted” per the below:
+The INF will retain 10 percent of the fees for the purpose of paying for the ongoing storage and access to identities. Validators are required to stake 400,000 ID tokens, and will be remunerated on a pro rata basis based on the amount of time the stake is “vaulted” per the below:
 
 | Reward =Percentage | Minimum amount of ID | Days/tiers |
 | :----------------: | :------------------: | :--------: |
-|         5%         |       300,000        |     90     |
-|        12%         |       300,000        |    180     |
-|        32%         |       300,000        |    365     |
+|         5%         |       400,000        |     90     |
+|        12%         |       400,000        |    180     |
+|        32%         |       400,000        |    365     |
 
 ### Option A:
 

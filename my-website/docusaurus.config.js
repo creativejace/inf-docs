@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Identity Network Foundation",
   tagline:
-    "INF provides open access to a global identity creation and verification network, and associated digital wallet for humanity.",
+    "Digital Identity + Wallet + Blockchain + ID token Free Public Utility for Humankind",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -64,6 +64,16 @@ const config = {
           {
             to: "https://docs.google.com/forms/d/1-Ycwr5_cMzlbsSVnwTVpxb4on52z_X-YFSGi4GlMmDw/edit",
             label: "Vote",
+            position: "left",
+          },
+          {
+            to: "/about",
+            label: "About",
+            position: "left",
+          },
+          {
+            to: "/ledger",
+            label: "Ledger",
             position: "left",
           },
           {
